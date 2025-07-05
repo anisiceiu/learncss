@@ -29,3 +29,43 @@
 .right-section ul li:hover{
     text-decoration: underline;
 }
+
+.quote-item {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 0 0 1rem 0;
+    padding: 0;
+}
+
+.author {
+    text-align: right;
+    font-weight: bold;
+    color: #555;
+}
+
+.category-list {
+    list-style: none;
+    padding: 0;
+}
+
+.category-list li {
+    padding: 0.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}
+
+.category-list li:hover {
+    background: #e9ecef;
+}
+
+.category-list li.active {
+    background: #dee2e6;
+    font-weight: bold;
+}
