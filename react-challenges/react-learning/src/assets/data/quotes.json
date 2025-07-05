@@ -1,0 +1,214 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "category": "Life & Wisdom"
+    },
+    {
+      "id": 2,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "category": "Life & Wisdom"
+    },
+    {
+      "id": 3,
+      "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "category": "Life & Wisdom"
+    },
+    {
+      "id": 4,
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "category": "Life & Wisdom"
+    },
+    {
+      "id": 5,
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "category": "Life & Wisdom"
+    },
+    {
+      "id": 6,
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "Success & Motivation"
+    },
+    {
+      "id": 7,
+      "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "category": "Success & Motivation"
+    },
+    {
+      "id": 8,
+      "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "category": "Success & Motivation"
+    },
+    {
+      "id": 9,
+      "quote": "Don’t watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "category": "Success & Motivation"
+    },
+    {
+      "id": 10,
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "Success & Motivation"
+    },
+    {
+      "id": 11,
+      "quote": "Courage is not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "category": "Courage & Resilience"
+    },
+    {
+      "id": 12,
+      "quote": "It always seems impossible until it’s done.",
+      "author": "Nelson Mandela",
+      "category": "Courage & Resilience"
+    },
+    {
+      "id": 13,
+      "quote": "You miss 100% of the shots you don’t take.",
+      "author": "Wayne Gretzky",
+      "category": "Courage & Resilience"
+    },
+    {
+      "id": 14,
+      "quote": "Strength does not come from winning. Your struggles develop your strengths.",
+      "author": "Arnold Schwarzenegger",
+      "category": "Courage & Resilience"
+    },
+    {
+      "id": 15,
+      "quote": "Fall seven times, stand up eight.",
+      "author": "Japanese Proverb",
+      "category": "Courage & Resilience"
+    },
+    {
+      "id": 16,
+      "quote": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein",
+      "category": "Creativity & Innovation"
+    },
+    {
+      "id": 17,
+      "quote": "Innovation distinguishes between a leader and a follower.",
+      "author": "Steve Jobs",
+      "category": "Creativity & Innovation"
+    },
+    {
+      "id": 18,
+      "quote": "The worst enemy to creativity is self-doubt.",
+      "author": "Sylvia Plath",
+      "category": "Creativity & Innovation"
+    },
+    {
+      "id": 19,
+      "quote": "Art is the lie that enables us to realize the truth.",
+      "author": "Pablo Picasso",
+      "category": "Creativity & Innovation"
+    },
+    {
+      "id": 20,
+      "quote": "Do not fear mistakes. There are none.",
+      "author": "Miles Davis",
+      "category": "Creativity & Innovation"
+    },
+    {
+      "id": 21,
+      "quote": "To love and be loved is to feel the sun from both sides.",
+      "author": "David Viscott",
+      "category": "Love & Relationships"
+    },
+    {
+      "id": 22,
+      "quote": "Love is composed of a single soul inhabiting two bodies.",
+      "author": "Aristotle",
+      "category": "Love & Relationships"
+    },
+    {
+      "id": 23,
+      "quote": "The best thing to hold onto in life is each other.",
+      "author": "Audrey Hepburn",
+      "category": "Love & Relationships"
+    },
+    {
+      "id": 24,
+      "quote": "A successful marriage requires falling in love many times, always with the same person.",
+      "author": "Mignon McLaughlin",
+      "category": "Love & Relationships"
+    },
+    {
+      "id": 25,
+      "quote": "Where there is love, there is life.",
+      "author": "Mahatma Gandhi",
+      "category": "Love & Relationships"
+    },
+    {
+      "id": 26,
+      "quote": "Life is too important to be taken seriously.",
+      "author": "Oscar Wilde",
+      "category": "Humor & Wit"
+    },
+    {
+      "id": 27,
+      "quote": "The only way to get rid of temptation is to yield to it.",
+      "author": "Oscar Wilde",
+      "category": "Humor & Wit"
+    },
+    {
+      "id": 28,
+      "quote": "I’m not lazy, I’m on energy-saving mode.",
+      "author": "Anonymous",
+      "category": "Humor & Wit"
+    },
+    {
+      "id": 29,
+      "quote": "I don’t need anger management. I need people to stop irritating me.",
+      "author": "Anonymous",
+      "category": "Humor & Wit"
+    },
+    {
+      "id": 30,
+      "quote": "I’m not arguing, I’m just explaining why I’m right.",
+      "author": "Anonymous",
+      "category": "Humor & Wit"
+    },
+    {
+      "id": 31,
+      "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "category": "Philosophy & Deep Thinking"
+    },
+    {
+      "id": 32,
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "category": "Philosophy & Deep Thinking"
+    },
+    {
+      "id": 33,
+      "quote": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "category": "Philosophy & Deep Thinking"
+    },
+    {
+      "id": 34,
+      "quote": "Man is born free, and everywhere he is in chains.",
+      "author": "Jean-Jacques Rousseau",
+      "category": "Philosophy & Deep Thinking"
+    },
+    {
+      "id": 35,
+      "quote": "The mind is everything. What you think, you become.",
+      "author": "Buddha",
+      "category": "Philosophy & Deep Thinking"
+    }
+  ]
+}
